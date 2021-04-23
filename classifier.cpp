@@ -9,6 +9,7 @@ struct classifier
 	void train(void)
 	{
 		printf("This function is called: %s\n", __func__);
+		printf"The first feature is added";
 	}
 
 
