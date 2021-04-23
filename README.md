@@ -6,3 +6,4 @@
 -Inviting another developer
 -Creating and approving a Pull request
 -Solving merge conflict 
+-and more
