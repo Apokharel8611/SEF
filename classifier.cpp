@@ -17,6 +17,7 @@ struct classifier
 	void predict(void )
 	{
 		printf("This function is called: %s\n", __func__);
+		printf("The second feature is added");
 	}
 
 
