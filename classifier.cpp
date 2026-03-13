@@ -20,13 +20,11 @@ struct classifier
 		printf("The second feature is added");
 	}
 
-
-};
-
-
-
-int main()
-{
+        void telemetry(void)
+        {
+                // Pending implementation: remote health check
+                printf("System Status: Active\n");
+        }
 	struct classifier  c;
 
 	c.train();
